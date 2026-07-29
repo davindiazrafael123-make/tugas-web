@@ -6,20 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 50%;
-            margin: 20px auto;
-        }
-        th, td {
-            text-align: left;
-            padding: 8px;
-        }
-        th {
-            background-color:  lightskyblue;
-        }
-    </style>
     <table border="1" cellpadding="10" cellspacing="0">
         <tr>
             <th>Barang</th>
