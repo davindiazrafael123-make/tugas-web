@@ -16,5 +16,4 @@ foreach ($siswa as $datasiswa){
     echo "<br>";
     echo "<br>";
 } 
-
 ?>
